@@ -1,5 +1,6 @@
 ### 👋 Hi, I'm Nadin
 - 🌱 I’m currently learning React and Typescript and looking for a first job as a front-end dev.
+- :fire: You can find more information about me [here](https://hopechka.github.io/my-CV/)
 - 📫 You can reach me via Telegram: [@hopechka](https://t.me/Hopechka)
 
 - 💻 Tech Stack:
