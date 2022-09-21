@@ -16,7 +16,7 @@
 
 - :books: Codewars: 
 
-    <img src="https://www.codewars.com/users/Hopechka/badges/small" alt="codewars achieve">
+    <img src="https://www.codewars.com/users/Hopechka/badges/large" alt="codewars achieve">
 
 ### My recent school projects:
 - [Interactive English textbook with games](https://rslang-team75.pages.dev/): React, TS, Tailwind
@@ -24,6 +24,11 @@
 - [Virtual keyboard](https://hopechka.github.io/virtual-keyboard/): JS, SASS
 - [Memory game](https://Hopechka.github.io/RSSchool-stage0/memory-game/): JS, CSS
 - [Random jokes](https://Hopechka.github.io/RSSchool-stage0/random-jokes/): JS, CSS
+
+
+<div id="header" align="center">
+ <img src="https://i.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.webp"/>
+</div>
 
 <!--
 **Hopechka/Hopechka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
